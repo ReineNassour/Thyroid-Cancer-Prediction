@@ -20,19 +20,25 @@ Handled missing values,
  Normalized/standardized features (if applied),
  Split dataset into training and testing sets.
 
-2. Models Implemented
+2. Models Implemented:
 
 The following machine learning classification models were implemented and evaluated:
 
-K-Nearest Neighbors (KNN) – distance-based classification approach,
-Naive Bayes – probabilistic classifier based on Bayes’ theorem,
+K-Nearest Neighbors (KNN): A distance-based classification approach,
+Naive Bayes: A probabilistic classifier based on Bayes’ theorem,
+Decision Tree (DT): A tree-based model for decision-making,
+Random Forest (RF): An ensemble method that combines multiple decision trees,
+Support Vector Machine (SVM): A classifier that finds the optimal decision boundary.
 
-3. Model Evaluation
+3. Model Evaluation:
 
-Models were evaluated using:
+The performance of the models was evaluated using the following metrics:
 
 Accuracy,
 Precision,
 Recall,
+F1-score,
+Confusion Matrix.
+
 F1-score,
 Confusion Matrix.

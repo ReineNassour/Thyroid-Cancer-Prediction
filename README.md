@@ -40,5 +40,4 @@ Recall,
 F1-score,
 Confusion Matrix.
 
-F1-score,
-Confusion Matrix.
+
